@@ -1,0 +1,448 @@
+NWS ID,River,Location,Forecast Condition,Point Type,Observed Date (Day,Latest Flow,Latest Stage,Flood Stage,Bankfull Stage,HUC,State,HSA,Elevation,Forecast Group,Segment
+tnra3,Tonto Ck , Roosevelt  Nr  Gun Ck  Abv,4,1,20.15,20,2.06,16,16,15060105,AZ,PSR,2523,SALT,11
+sbca3,Sabino Ck , Tucson  Nr,3,1,20.15,0,0.75,3,2.5,15050302,AZ,TWC,2720,SANTACRZ,3
+fwnn2,Flamingo Wash , Nellis Blvd,2,1,20.16,471,12.17,,17.1,15010015,NV,VEF,1730,MUDLV,15
+lpfn5,La Plata , Farmington  Nr,2,1,20.16,34,2.71,,14.5,14080105,NM,ABQ,5215,SANJUAN,22
+lvcn2,Las Vegas Wash , Craig Rd,2,1,,,,,9,15010015,NV,VEF,1930,MUDLV,11
+lwcn2,Las Vegas Wash , Flamingo Wash  Blo,2,1,20.15,749,17.18,,19.4,15010015,NV,VEF,1710,MUDLV,16
+sahn2,Las Vegas Wash , Sahara Ave,2,1,,,,,14.7,15010015,NV,VEF,1715,MUDLV,12
+frmn5,San Juan , Farmington,2,1,20.15,1649,2.7,8.5,7,14080105,NM,ABQ,5230,SANJUAN,19
+srsu1,Santa Clara , St. George,2,1,20.15,143,8.16,13.9,12.9,15010008,UT,SLC,2560,VIRGIN,10
+huru1,Virgin , Hurricane  Nr,2,1,20.15,170,8.19,19.6,18,15010008,UT,SLC,2800,VIRGIN,5
+viru1,Virgin , Virgin,2,1,20.16,820,9.49,18.9,17,15010008,UT,SLC,3500,VIRGIN,4
+vrbu1,Virgin , Bloomington  Nr,2,1,20.16,323,7.93,16,15,15010010,UT,SLC,2530,VIRGIN,12
+maoa3,Acdc , 14th Street,1,1,20.13,0,0.4,,10,15060106,AZ,PSR,1230,AGUAFRIA,6
+mhfa3,Acdc , 43rd Avenue,1,1,20.16,743,2.07,,4,15060106,AZ,PSR,1225,AGUAFRIA,7
+msxa3,Acdc , 67th Ave,1,1,20.16,107,2.13,,6,15070102,AZ,PSR,1220,AGUAFRIA,8
+acha3,Agua Caliente Wash , Houghton Rd,1,1,19.22,0,2.3,,4.1,15050302,AZ,TWC,2588,SANTACRZ,2
+afha3,Agua Fria , Humboldt  Nr,1,1,20.15,3,0.78,,15.5,15070102,AZ,FGZ,4400,AGUAFRIA,17
+afma3,Agua Fria , Mayer  Nr,1,1,20.15,0,2.2,,15.1,15070102,AZ,FGZ,3434,AGUAFRIA,18
+afra3,Agua Fria , Rock Spgs  Nr,1,1,20.15,1,2.77,16,15,15070102,AZ,PSR,1800,AGUAFRIA,19
+avoa3,Agua Fria , Buckeye,1,1,20.13,1,1.28,,8,15070102,AZ,PSR,970,AGUAFRIA,26
+mafa3,Agua Fria , Grand Ave,1,1,20.15,427,3.68,,14,15070102,AZ,PSR,1115,AGUAFRIA,24
+atpa3,Altar Wash , Three Points  Nr,1,1,20.15,0,1.35,,14,15050304,AZ,TWC,2975,SANTACRZ,24
+afpu1,American Fork , American Fork  Nr  Up Pwrplnt  Abv,1,1,20.15,e21,e6.11,8.5,8.2,16020201,UT,SLC,5950,PROVO,11
+arfn5,Animas , Farmington,1,1,20.15,332,4.68,10,9,14080104,NM,ABQ,5280,SANJUAN,18
+cdrc2,Animas , Cedar Hill  Nr,1,1,20.15,237,3.87,10.5,9.5,14080104,CO,ABQ,5960,SANJUAN,17
+dgoc2,Animas , Durango Pump Plant  Blo,1,1,20.15,291,3.34,,,14080104,CO,GJT,6437,SANJUAN,13
+drgc2,Animas , Durango,1,1,20.15,211,2.3,8,7,14080104,CO,GJT,6502,SANJUAN,12
+acsc2,Anthracite Ck , Mouth  Abv  Somerset  Nr,1,1,20.12,43,0.95,,,14020004,CO,GJT,6280,GUN,24
+arva3,Aravaipa Ck , Mammoth,1,1,20.15,10,0.48,11.5,8,15050203,AZ,TWC,2345,SANPEDRO,8
+avca3,Arivaca Ck , Arivaca,1,1,,,,,4,15050304,AZ,TWC,3580,SANTACRZ,23
+acju1,Ashley Ck , Jensen  Nr  Union Canal  Blo,1,1,20.12,41,,,10.2,14060002,UT,GJT,4740,DUCHPR,4
+ashu1,Ashley Ck , Vernal  Nr,1,1,20.12,26,1.71,,4.2,14060002,UT,GJT,6231,DUCHPR,3
+baba3,Babocomari , Tombstone  Nr,1,1,20.15,0,0.25,,4,15050202,AZ,TWC,3980,SANPEDRO,4
+bcnu1,Bear , Corinne  Nr,1,1,20.15,1129,5.63,15.5,13.4,16010204,UT,SLC,4205,BEAR,31
+beai1,Bear , Alexander  At,1,1,19.12,300,,,7,16010201,ID,PIH,5630,BEAR,18
+beaw4,Bear , Woodruff Narrows Rsvr  Abv,1,1,20.14,e54,e1.06,,5.5,16010101,WY,SLC,6455,BEAR,3
+beru1,Bear , Utah,1,1,20.15,e57,e4.13,8,7,16010101,UT,SLC,7965,BEAR,1
+besi1,Bear , Soda Springs  At,1,1,19.12,169,,,7,16010201,ID,PIH,5760,BEAR,16
+biui1,Bear , Id/ut Stateline,1,1,20.15,545,9.77,18.1,15.8,16010202,ID,PIH,4420,BEAR,21
+brai1,Bear , Pescadero,1,1,20.14,e149,e2.56,6.2,6,16010201,ID,PIH,5950,BEAR,15
+brbw4,Bear , Border,1,1,20.15,e180,e1.76,7.5,7,16010102,WY,PIH,6052,BEAR,9
+brwu1,Bear , Woodruff  Nr  Woodruff Narrows Res  Blo,1,1,20.16,18,2.52,8.2,8,16010101,UT,SLC,6400,BEAR,5
+cokw4,Bear , Smiths Fork  Blo  Cokeville  Nr,1,1,20.15,e178,e2.74,6,5.5,16010102,WY,RIW,6140,BEAR,8
+evaw4,Bear , Evanston,1,1,20.15,e46,e0.81,7,5.5,16010101,WY,SLC,6730,BEAR,2
+pixw4,Bear , Pixley Dam  Blo  Cokeville  Nr,1,1,19.12,90,2.3,8.5,7.5,16010102,WY,RIW,6185,BEAR,6
+stdi1,Bear , Montpelier  Nr  Stewart Dam  Blo,1,1,19.12,185,,,,16010201,ID,PIH,5950,BEAR,11
+blzi1,Bear Lake Outlet Canal Nr Paris,,1,1,19.12,97,,,,16010201,ID,PIH,5912,BEAR,14
+bboi1,Bear R Blo Ut P&l @ Oneida,,1,1,19.12,451,,,,16010202,ID,PIH,4800,BEAR,20
+bevu1,Beaver , Beaver  Nr,1,1,20.15,,,,3.2,16030007,UT,SLC,6200,SEV_H,14
+bdwu1,Beaver Dam Wash , Enterprise  Nr,1,1,20.15,5,4.38,,7.4,15010010,UT,SLC,4740,VIRGIN,13
+beaa3,Beaver Dam Wash , Beaver Dam,1,1,,,,,8.9,15010010,AZ,VEF,1850,VIRGIN,14
+ypca3,Big Chino Wash , Sr 89,1,1,20.08,0,,,,15060202,AZ,FGZ,4375,VERDE,3
+bctu1,Big Cottonwood Ck , Salt Lake City  Nr,1,1,20.12,26,,4.2,3.7,16020204,UT,SLC,4990,SIXCKS,4
+bcwu1,Big Cottonwood Ck , 300 West,1,1,20.15,14,,,M,16020204,UT,SLC,4248,SIXCKS,6
+bigu1,Big Cottonwood Ck , Cottonwood Ln,1,1,20.15,e1,,4.2,3.9,16020204,UT,SLC,4403,SIXCKS,5
+bsrw4,Big Sandy , Farson  Nr,1,1,20.12,22,3.59,,7.5,14040104,WY,RIW,6794,GREEN,8
+wkpa3,Big Sandy , Wikieup  Nr,1,1,20.16,4,5.52,16,12,15030201,AZ,VEF,1400,BILLPAR,5
+bwca3,Big Wash , Canada Del Oro,1,1,19.21,0,0.8,,,15050301,AZ,TWC,2628,SANTACRZ,19
+bwaa3,Bill Williams , Alamo Dam  Blo,1,1,20.15,19,12.27,,23.2,15030204,AZ,VEF,967,BILLPAR,8
+bwpa3,Bill Williams , Parker  Nr,1,1,20.15,0,5.65,,13.5,15030204,AZ,PSR,500,BILLPAR,9
+bppa3,Black , Point Of Pines  Nr  Pumping Plant  Blo,1,1,20.15,28,2.8,,10.9,15060101,AZ,TWC,5725,SALT,1
+bnru1,Blacks Fork , Robertson  Nr,1,1,20.15,e37,e1.86,5,4.8,14040107,UT,SLC,8811,GREEN,15
+ltaw4,Blacks Fork , Little America  Nr,1,1,20.15,e106,e3.79,10.5,9.5,14040107,WY,RIW,6128,GREEN,20
+hrmu1,Blacksmith Fork , Hyrum  Nr  Upnl Dam  Abv,1,1,20.15,e88,e3.77,7.6,6.7,16010203,UT,SLC,5021,BEAR,23
+bgmc2,Blue , Green Mtn Res  Blo,1,1,20.15,296,4.03,,10.5,14010002,CO,BOU,7683,COLKREM,20
+blca3,Blue , Clifton  Nr,1,1,20.15,4,3.39,,12,15040004,AZ,TWC,4160,UPGILA,10
+blrc2,Blue , Dillon  Blo,1,1,20.15,102,1.07,4,3.5,14010002,CO,BOU,8760,COLKREM,17
+bswc2,Blue , Dillon  Nr,1,1,20.15,27,4.42,,6.6,14010002,CO,BOU,9020,COLKREM,14
+buec2,Blue , Blue River,1,1,20.16,9,0.56,3.5,3.5,14010002,CO,BOU,9835,COLKREM,13
+bnma3,Bonita Ck , Morenci  Nr,1,1,20.15,2,5.51,13,11,15040005,AZ,TWC,3500,UPGILA,13
+bwta3,Brawley Wash , Three Points,1,1,20.15,0,6.28,15,13,15050304,AZ,TWC,2540,SANTACRZ,25
+bmwa3,Brawley Wash At Milewide Rd,,1,1,20.01,0,1.9,,,15050304,AZ,TWC,2211,SANTACRZ,26
+blla3,Bullard Wash,,1,1,,,,,6.5,15070101,AZ,PSR,915,LOGILA,8
+bcba3,Burro Ck , Bagdad  Nr  Old Us 93 Bridge,1,1,20.15,0,3.87,,14.2,15030202,AZ,VEF,1880,BILLPAR,4
+ccpa3,Canada Del Oro , Coronado Camp,1,1,20,0,4.56,,,15050301,AZ,PSR,4420,SANTACRZ,17
+cdoa3,Canada Del Oro , Ina Rd  Blo  Tucson  Nr,1,1,20.15,0,4.16,,17,15050301,AZ,TWC,2245,SANTACRZ,20
+grba3,Canada Del Oro , Golder Road Bridge,1,1,19.23,0,0.69,,5.5,15050301,AZ,TWC,2960,SANTACRZ,18
+cdba3,Canyon Diablo , Mouth,1,1,,,,,,15020008,AZ,FGZ,0,LITCOL,27
+cawa3,Carrizo Wash , St. Johns  Nr,1,1,,,,,M,15020003,AZ,FGZ,5611,LITCOL,2
+cava3,Cave Ck , Cave Ck  Nr  Cottonwood Wash  Blo,1,1,20.15,0,2.56,9,9,15060106,AZ,PSR,2280,AGUAFRIA,1
+mcva3,Cave Ck , Cactus Road,1,1,20.16,4,1.19,,12,15060106,AZ,PSR,1280,AGUAFRIA,5
+mcza3,Cave Ck , Cave Creek Rd  Nr,1,1,20.16,0,0.9,,8,15060106,AZ,PSR,1815,AGUAFRIA,2
+cspa3,Centennial Wash , Southern Pacific  Arlington  Nr,1,1,20.15,0,5.4,,16.8,15070104,AZ,PSR,841,HASSCENT,11
+cwwa3,Centennial Wash @ Wenden,,1,1,20.13,4,0.08,4,3.5,15070104,AZ,PSR,1880,HASSCENT,9
+civu1,Chalk Ck , Coalville,1,1,20.15,e23,e3.27,7,6.5,16020101,UT,SLC,5561,WEBER,6
+chra3,Cherry Ck , Globe  Nr,1,1,20.15,12,2.78,,15,15060103,AZ,PSR,3200,SALT,8
+chwa3,Chevelon Ck , Winslow  Nr  Wildcat Cyn  Blo,1,1,20.15,0,1.4,,14,15020010,AZ,FGZ,5905,LITCOL,20
+ccma3,Chinle Ck , Mexican Water  Nr,1,1,20.15,1,1.79,,13,14080204,AZ,FGZ,4720,SANJUAN,28
+cnea3,Cienega Ck , Sonoita  Nr,1,1,20.15,0,0.73,,10.5,15050302,AZ,TWC,4180,SANTACRZ,6
+cmrc2,Cimarron , Cimarron  Nr,1,1,20.15,e17,e1.18,,5.4,14020002,CO,GJT,8641,GUN,18
+ccsu1,City Ck , Salt Lake City  Nr,1,1,20.03,e7,,3.5,3.3,16020204,UT,SLC,4540,SIXCKS,18
+ccdu1,Clear Ck , Sevier  Nr  Diversions  Abv,1,1,20.15,,,,6.8,16030003,UT,SLC,5680,SEV_H,8
+ccwa3,Clear Ck , Winslow  Nr,1,1,,,,,,15020008,AZ,FGZ,4861,LITCOL,21
+cvru1,Cleveland Reservoir,,1,1,20.12,1,,,,14060009,UT,SLC,9504,SANRAFDD,9
+coau1,Coal Ck , Cedar City  Nr,1,1,20.15,,,8.5,8.3,16030006,UT,SLC,6000,SEV_H,13
+crcc2,Cochetopa Ck , Rock Ck  Blo  Parlin  Nr,1,1,20.15,e24,e2.04,,5.4,14020003,CO,PUB,8470,GUN,9
+camc2,Colorado , Cameo  Nr,1,1,20.16,1817,4.16,12.5,11,14010005,CO,GJT,4814,COLPAL,22
+cawc2,Colorado , Granby  Nr  Windy Gap  At,1,1,20.15,96,3.57,,8,14010001,CO,BOU,7790,COLKREM,7
+cbdn2,Colorado , Davis Dam  Blo,1,1,20.15,10050,11.37,,,15030101,NV,VEF,490,HAVASU,7
+cbgc2,Colorado , Granby  Nr,1,1,20.15,31,1.14,6,5.5,14010001,CO,BOU,7960,COLKREM,4
+ccuc2,Colorado , Co,1,1,20.16,4045,3.99,15,12,14010005,CO,GJT,4325,POWELL,1
+cdca3,Colorado , Diamond Ck  Abv  Peach Springs  Nr,1,1,20.15,11406,48.55,,64.5,15010002,AZ,VEF,1340,HAVASU,3
+cgca3,Colorado , Grand Cyn  Nr,1,1,20.15,11422,8.03,,25.7,15010001,AZ,FGZ,2419,HAVASU,2
+cgyc2,Colorado , Grand Valley Div  Blo  Palisade  Nr,1,1,20.15,1949,4.63,,8.1,14010005,CO,GJT,4670,COLPAL,26
+clfa3,Colorado , Lees Ferry,1,1,20.15,8936,8.36,,19,14070006,AZ,FGZ,3106,HAVASU,1
+clru1,Colorado , Cisco  Nr,1,1,20.15,4029,2.86,,12.1,14030005,UT,GJT,4090,POWELL,2
+ctru1,Colorado , Cataract Canyon,1,1,20.12,7200,,,M,14070001,UT,SLC,-9999,POWELL,3
+eglc2,Colorado , Dotsero  Nr,1,1,20.15,1009,2.38,12,11.5,14010001,CO,GJT,6130,COLPAL,10
+gcoc2,Colorado , Glenwood Springs  Blo,1,1,20.15,1684,4.05,16.5,12,14010005,CO,GJT,5701,COLPAL,18
+htsc2,Colorado , Hot Sulphur Spgs,1,1,20.12,113,0.68,7,5,14010001,CO,BOU,7670,COLKREM,8
+krmc2,Colorado , Kremmling  Nr,1,1,20.15,603,4.44,15,14,14010001,CO,BOU,7320,COLKREM,23
+lcoa3,Cottonwood Wash , Winslow,1,1,,,,,,15020011,AZ,FGZ,4880,LITCOL,19
+cssc2,Cross Ck , Minturn  Nr,1,1,20.15,e8,e2.58,,5.6,14010003,CO,GJT,7992,COLPAL,6
+rcyc2,Crystal , Redstone  Nr  Avalanche Ck  Abv,1,1,20.15,e60,e0.72,5,4,14010004,CO,GJT,6905,COLPAL,12
+dckc2,Dallas Ck , Ridgway  Nr,1,1,20.15,e21,e2.55,6,5,14020006,CO,GJT,6980,GUN,33
+dava3,Davidson Canyon,,1,1,19.22,0,1.34,,7,15050302,AZ,TWC,3480,SANTACRZ,7
+dina3,Dinnebito Wash , Sand Springs  Nr  Oraisi  Nr,1,1,20.15,0,2.83,,8.4,15020017,AZ,FGZ,5160,LITCOL,25
+ddhu1,Dirty Devil , Poison Spgs  Abv  Hanksville  Nr,1,1,20.15,110,6.95,,12.7,14070004,UT,SLC,3850,SANRAFDD,22
+dbdc2,Dolores , Bedrock  Nr,1,1,20.15,53,2.51,,9.7,14030002,CO,GJT,4910,DOL,6
+dolc2,Dolores , Dolores,1,1,20.15,e55,e2.13,,7,14030002,CO,GJT,6940,DOL,2
+dolu1,Dolores , Cisco  Nr,1,1,20.16,159,7.19,,13.7,14030004,UT,GJT,4165,DOL,10
+drmc2,Dolores , Mcphee Res  Blo,1,1,20.16,40,0.82,,6.7,14030002,CO,GJT,6630,DOL,5
+drrc2,Dolores , Rico  Blo,1,1,20.15,e20,e1.44,5.8,5.4,14030002,CO,GJT,8422,DOL,1
+dbva3,Dry Beaver Ck , Rimrock  Nr,1,1,20.15,0,1.49,12,12,15060202,AZ,FGZ,3694,VERDE,11
+dycu1,Dry Creek , Nr Alpine,1,1,20.12,8,,,,16020201,UT,SLC,5320,PROVO,12
+dadu1,Duchesne , Duchesne  Nr  Knight Div  Abv,1,1,20.14,e169,,,,14060003,UT,SLC,5840,DUCHPR,17
+druu1,Duchesne , Uinta R  Abv,1,1,20.16,206,3.85,,10.2,14060003,UT,GJT,4830,DUCHPR,22
+duru1,Duchesne , Randlett  Nr,1,1,20.15,241,6,13.3,11.3,14060003,UT,GJT,4756,DUCHPR,26
+myru1,Duchesne , Myton,1,1,20.15,205,3.91,8.4,7.6,14060003,UT,SLC,5061,DUCHPR,21
+tadu1,Duchesne , Tabiona  Nr,1,1,20.15,e112,e1.22,5.6,5.3,14060003,UT,SLC,6190,DUCHPR,12
+dckn2,Duck Ck , Broadbent Ave,1,1,20.15,210,4.47,,9.7,15010015,NV,VEF,1605,MUDLV,17
+mdea3,Dysart , El Mirage,1,1,20.15,0,0.3,,12,15070102,AZ,PSR,1052,AGUAFRIA,25
+eccu1,E Canyon Cr , Morgan  Nr,1,1,20.15,10,0.21,2.5,2.2,16020102,UT,SLC,5460,WEBER,15
+ealc2,Eagle , Avon,1,1,20.15,63,2.67,,8,14010003,CO,GJT,7380,COLPAL,8
+gpsc2,Eagle , Gypsum  Blo,1,1,20.15,213,4.33,9,7.5,14010003,CO,GJT,6275,COLPAL,9
+rerc2,Eagle , Redcliff,1,1,20.15,e12,e2.93,,5,14010003,CO,GJT,8654,COLPAL,2
+ecma3,Eagle Ck , Morenci  Nr  Pumping Plant  Abv,1,1,20.15,34,1.79,15,10,15040005,AZ,TWC,3674,UPGILA,12
+alec2,East , Almont,1,1,20.15,e87,e2.73,7,6.3,14020001,CO,GJT,8006,GUN,5
+ecau1,East Canyon Ck , Jeremy Ranch  Nr,1,1,20.15,18,4.8,8.1,7.9,16020102,UT,SLC,6240,WEBER,13
+ecpu1,East Canyon Ck , Park City  Nr,1,1,20.15,e12,e5.46,9.3,8.8,16020102,UT,SLC,6360,WEBER,12
+effu1,East Fork Virgin , Glendale  Nr,1,1,20.15,31,10.63,,15.1,15010008,UT,SLC,5900,VIRGIN,2
+estu1,East Fork Virgin , Springdale  Nr,1,1,20.15,127,6.02,,,15010008,UT,SLC,3940,VIRGIN,3
+evda3,East Verde , Childs  Nr,1,1,20.15,22,10.68,,29.4,15060203,AZ,FGZ,2500,VERDE,15
+srku1,Ef Sevier , Kingston  Nr,1,1,20.15,28,3.43,9,8,16030002,UT,SLC,6160,SEV_H,5
+sfrw4,Ef Smiths Fork , Robertson  Nr,1,1,19.22,e9,e3.66,7.7,6.5,14040107,WY,SLC,8470,GREEN,19
+slrw4,Ef Smiths Fork , Stateline Reservoir  Robertson nr,1,1,,e10,,,,14040107,WY,SLC,7200,GREEN,18
+enmc2,Elk , Milner  Nr,1,1,20.15,e87,e1.58,7.5,6.5,14050001,CO,GJT,6590,WHYAM,6
+elcc2,Elkhead Ck , Craig  Nr,1,1,20.15,e5,e1.72,,,14050001,CO,GJT,6240,WHYAM,9
+elhc2,Elkhead Ck , Long Gulch  Abv  Hayden  Nr,1,1,20.15,2,2.48,,7,14050001,CO,GJT,6405,WHYAM,7
+zcha3,Emf , Arizona Ave,1,1,20.01,218,0.72,,6,15050100,AZ,PSR,1215,LOGILA,6
+emiu1,Emigration Ck , Salt Lake City  Nr,1,1,20.15,1,,2,1.9,16020204,UT,SLC,4874,SIXCKS,15
+escu1,Escalante , Escalante  Nr,1,1,20.15,6,1.37,,8.3,14070005,UT,SLC,5670,SANRAFDD,23
+frru1,Ferron Ck , Ferron  Nr,1,1,20.15,e14,e5.68,,12,14060009,UT,SLC,6210,SANRAFDD,15
+fcnu1,Fish Ck , Scofield  Nr  Reservoir  Abv,1,1,20.15,e11,e0.98,,5.3,14060007,UT,SLC,7670,DUCHPR,27
+fisc2,Fish Ck , Upper Stn  Steamboat Spgs  Nr,1,1,20.14,e9,e0.44,,2.5,14050001,CO,GJT,7150,WHYAM,1
+fwdn2,Flamingo Wash , Decatur Blvd,1,1,,,,,19.8,15010015,NV,VEF,2233,MUDLV,14
+bdac2,Florida , Bondad  Nr,1,1,20.15,31,3.34,,5.6,14080104,CO,GJT,6000,SANJUAN,16
+frvc2,Florida , Durango  Nr  Lemon Res  Blo,1,1,20.15,60,2.39,,5,14080104,CO,GJT,7960,SANJUAN,15
+fchw4,Fontenelle Ck , Herschler  Nr,1,1,20.14,e25,e5.21,11.5,9.5,14040101,WY,RIW,6950,GREEN,5
+fpwu1,Fort Pearce Wash , St. George  Nr,1,1,20.15,0,3.29,,15.3,15010009,UT,SLC,2800,VIRGIN,11
+fcsa3,Fossil Ck Nr Strawberry,,1,1,20.15,52,4.05,,,15060203,AZ,FGZ,3600,VERDE,17
+frgc2,Fraser , Granby,1,1,20.12,52,1.07,,4,14010001,CO,BOU,7900,COLKREM,6
+frwc2,Fraser , Winter Park,1,1,20.15,e14,e0.87,3,3,14010001,CO,BOU,8906,COLKREM,5
+canu1,Fremont , Caineville  Nr,1,1,20.12,220,7.74,,11.8,14070003,UT,SLC,4760,SANRAFDD,21
+freu1,Fremont , Bicknell  Nr,1,1,20.14,e83,e4.29,,15.6,14070003,UT,SLC,6920,SANRAFDD,20
+fptc2,Frying Pan , Thomasville  Nr,1,1,20.15,e33,e1.83,,4.2,14010004,CO,GJT,8210,COLPAL,14
+rudc2,Frying Pan , Ruedi  Nr,1,1,20.15,83,1.33,,3.2,14010004,CO,GJT,7473,COLPAL,16
+duua3,Gila , Duncan,1,1,20.15,,,20,18,15040002,AZ,TWC,3663,UPGILA,6
+gata3,Gila , Attaway Rd,1,1,,,,12,12,15050100,AZ,PSR,1418,LOGILA,2
+gcda3,Gila , Coolidge Dam  Blo,1,1,20.15,4,0.18,,9,15050100,AZ,PSR,2309,UPGILA,19
+gcfa3,Gila , Clifton  Nr,1,1,20.15,66,2.93,,14,15040002,AZ,TWC,3336,UPGILA,7
+gdcn5,Gila , Diamond Ck  Blo,1,1,,,,,,15040001,NM,ABQ,0,UPGILA,1
+gdta3,Gila , Dateland,1,1,20.15,0,2.93,9,9,15070201,AZ,PSR,363,LOGILA,16
+ggda3,Gila , Gillespie Dam  Blo,1,1,20.15,,,,17,15070104,AZ,PSR,753,LOGILA,11
+gida3,Gila , Dome  Nr,1,1,20.15,4,14.52,24,20,15070201,AZ,PSR,139,LOGILA,17
+giln5,Gila , Gila  Nr,1,1,20.15,57,1.44,11,9,15040001,NM,EPZ,4655,UPGILA,2
+glca3,Gila , Calva,1,1,20.15,32,1.16,20,15,15040005,AZ,TWC,2517,UPGILA,16
+glha3,Gila , Solomon  Nr  Head Of Safford Vly,1,1,20.15,93,6.7,21,19,15040005,AZ,TWC,3060,UPGILA,14
+glka3,Gila , Kelvin,1,1,20.15,10,6.9,25.6,23.8,15050100,AZ,PSR,1745,LOGILA,1
+gpra3,Gila , Painted Rock Dam  Blo,1,1,20.15,0,0.82,,7,15070201,AZ,PSR,519,LOGILA,15
+grga3,Gila , Estrella Parkway  Goodyear Nr,1,1,20.15,91,4.72,,16.1,15070101,AZ,PSR,883,LOGILA,9
+grma3,Gila , Maricopa  Nr,1,1,20.15,0,1.95,6,5,15050100,AZ,PSR,1114,LOGILA,7
+gvrn5,Gila , Virden  Nr  Blue Ck  Blo,1,1,20.15,56,3.8,15,12,15040002,NM,EPZ,3875,UPGILA,5
+rgrn5,Gila , Redrock  Nr,1,1,20.15,58,3.33,20,15,15040002,NM,EPZ,4090,UPGILA,4
+grvc2,Gore Ck , Vail  Red Sandstone Ck  Abv,1,1,20.15,e18,e4.53,,9.4,14010003,CO,GJT,8055,COLPAL,7
+gown2,Gowan Detention Basin Outlet , N Las Vegas  Nr,1,1,,,,,13,15010015,NV,VEF,2060,MUDLV,10
+grca3,Granite Ck , Prescott  Nr,1,1,20.15,20,5.71,11,M,15060202,AZ,FGZ,5204,VERDE,4
+grwa3,Granite Ck , Watson Lake  Blo,1,1,20.15,,,,14,15060202,AZ,FGZ,5020,VERDE,6
+gspu1,Great Salt Lake , Saltair Boat Harbor At State Pk,1,1,,e2124,,,M,16020310,UT,SLC,4187,SALTLAKE,5
+gbfw4,Green , Fontenelle Res  Blo,1,1,20.15,973,11.73,16.5,15.5,14040103,WY,RIW,6378,GREEN,7
+grrw4,Green , Green River  Wy  Nr,1,1,20.15,1118,1.67,7,5.5,14040106,WY,RIW,6060,GREEN,11
+grvu1,Green , Green River  Ut,1,1,20.15,2670,6.24,15,14,14060008,UT,SLC,4040,GREEN,25
+grzu1,Green , Greendale  Nr,1,1,20.15,1529,9.04,,14.8,14040106,UT,GJT,5594,GREEN,23
+jesu1,Green , Jensen  Nr,1,1,20.15,2088,2.75,10.8,9,14060001,UT,GJT,4758,GREEN,24
+labw4,Green , La Barge  Nr,1,1,20.15,833,5.15,9,8,14040101,WY,RIW,6520,GREEN,4
+wbrw4,Green , Daniel  Nr  Warren Bridge  At,1,1,20.15,e149,e1.32,6,5,14040101,WY,RIW,7468,GREEN,1
+delc2,Gunnison , Delta,1,1,20.15,1445,2.6,12,8,14020005,CO,GJT,4910,GUN,31
+gepc2,Gunnison , Gunnison Tun  Blo,1,1,20.16,1070,3.5,,M,14020002,CO,GJT,6526,GUN,21
+gjnc2,Gunnison , Grand Junction  Nr,1,1,20.15,1811,3.51,13,8.6,14020005,CO,GJT,4628,GUN,38
+gusc2,Gunnison , Gunnison  Nr,1,1,20.15,e259,e1.18,5.5,4.8,14020002,CO,GJT,7655,GUN,7
+hmfw4,Hams Fork , Frontier  Nr  Pole Ck  Blo,1,1,20.15,e18,e2.97,6.5,6,14040107,WY,RIW,7455,GREEN,12
+hama3,Hassayampa , Morristown  Nr,1,1,20.15,0,6.61,17,16,15070103,AZ,PSR,1830,HASSCENT,6
+hsta3,Hassayampa , Arlington  Nr,1,1,20.15,,,17,15,15070103,AZ,PSR,823,HASSCENT,8
+hwga3,Hassayampa , Box Canyon,1,1,20.01,0,3.19,,10,15070103,AZ,FGZ,2245,HASSCENT,2
+mhua3,Hassayampa , Us,1,1,20.13,0,1.59,,5,15070103,AZ,PSR,2045,HASSCENT,5
+wgna3,Hassayampa , Wagoner Rd,1,1,20.13,0,4.1,,7,15070103,AZ,FGZ,3760,HASSCENT,1
+supa3,Havasu Ck , Supai,1,1,20.15,66,14.8,17,27.1,15010004,AZ,FGZ,3240,BILLPAR,3
+hfmw4,Henrys Fork , Manila  Nr,1,1,20.15,e61,e3.31,7,6.5,14040106,WY,RIW,6060,GREEN,21
+hbcu1,Hobble Ck , Springville  700 East,1,1,20.15,29,4.43,,,16020202,UT,SLC,4501,PROVO,13
+hmsc2,Homestake Ck , Gold Park,1,1,20.15,e8,e3.96,,5.7,14010003,CO,GJT,9200,COLPAL,5
+hunc2,Hunter Ck , Aspen  Nr,1,1,20.12,8,1.12,,3.3,14010004,CO,GJT,8610,COLPAL,13
+hpbu1,Huntington Ck , Power Plant  Blo ,1,1,20.14,36,,,,14060009,UT,SLC,6624,SANRAFDD,12
+hntu1,Huntington Reservoir,,1,1,20.12,1,,,,14060009,UT,SLC,9007,SANRAFDD,7
+ibwa3,Indian Bend Wash , Indian Bend Rd,1,1,20.13,0,0.03,,5,15060106,AZ,PSR,1280,SALT,18
+idxa3,Indian Bend Wash , Curry Rd,1,1,20.16,0,0.78,6,6,15060106,AZ,PSR,1162,SALT,19
+ibsa3,Indian Bend Wash @ Shea Blvd,,1,1,20.15,80,1.03,,4,15060106,AZ,PSR,1360,SALT,17
+wnba3,Jackrabbit Wash , Tonopah  Nr,1,1,20.13,0,2.3,5,5,15070103,AZ,PSR,1725,HASSCENT,7
+joru1,Jordan , 500 North,1,1,20.15,164,,8.8,M,16020204,UT,SLC,4210,SALTLAKE,3
+jrsu1,Jordan , Salt Lake City,1,1,20.15,112,2.36,10.6,9.5,16020204,UT,SLC,4220,SALTLAKE,2
+sswu1,Jordan , 90th South 8th West,1,1,20.16,33,,6.3,6.2,16020204,UT,SLC,4293,SALTLAKE,1
+kcku1,Kanab Ck , Kanab  Nr,1,1,20.15,7,12.16,,14.2,15010003,UT,SLC,5060,BILLPAR,2
+lphc2,La Plata , Hesperus,1,1,20.12,e7,e3.30,,5,14080105,CO,GJT,8105,SANJUAN,20
+lpsc2,La Plata , Co/nm State Line,1,1,20.15,2,3.4,9,8,14080105,CO,ABQ,5972,SANJUAN,21
+lfbc2,Lake Fork , Lake San Cristobal  Blo,1,1,20.15,e28,e4.14,,,14020002,CO,GJT,9000,GUN,11
+lfgc2,Lake Fork , Gateview,1,1,20.15,e66,e1.39,,4.9,14020002,CO,GJT,7828,GUN,12
+lamu1,Lambs Ck , Salt Lake City  Nr,1,1,20.12,5,,,,16020204,UT,SLC,5550,SIXCKS,9
+kidn2,Las Vegas Wash ,3,1,1,20.15,413,34.22,,47.8,15010015,NV,VEF,1450,MUDLV,19
+lvpn2,Las Vegas Wash , Pabco Rd  Henderson nr,1,1,20.15,418,6.28,,10.1,15010015,NV,VEF,1540,MUDLV,18
+lesa3,Leslie Ck , Mcneal  Nr,1,1,20.15,0,2.47,,6,15080301,AZ,TWC,4620,WHVAM,5
+hlzu1,Little Bear , Hyrum Reservoir,1,1,19.12,65,,M,M,16010203,UT,SLC,4680,BEAR,27
+przu1,Little Bear , Paradise,1,1,20.16,50,5.58,9.7,9.5,16010203,UT,SLC,4740,BEAR,26
+lbza3,Little Colorado , Zion Res  Blo,1,1,20.15,0,3.59,,26.3,15020002,AZ,FGZ,5530,LITCOL,7
+lcca3,Little Colorado , Cameron  Nr,1,1,20.16,0,1.68,,23.1,15020016,AZ,FGZ,3979,LITCOL,29
+lcja3,Little Colorado , Joseph City  Nr,1,1,20.15,0,2.07,9,9,15020008,AZ,FGZ,5031,LITCOL,18
+lcla3,Little Colorado , Lyman Lk  Abv  St. Johns  Nr,1,1,20.15,33,2.39,12,9.3,15020001,AZ,FGZ,6010,LITCOL,3
+lcwa3,Little Colorado , Winslow  Nr,1,1,20.15,4,10.5,19,17,15020008,AZ,FGZ,4863,LITCOL,22
+lcza3,Little Colorado , Zion Res  Abv  St. Johns  Nr,1,1,20.15,0,1.07,,8.9,15020002,AZ,FGZ,5560,LITCOL,6
+lhba3,Little Colorado , Holbrook,1,1,20.15,0,5.44,,M,15020008,AZ,FGZ,5063,LITCOL,17
+lyma3,Little Colorado , Lyman Lake  St. Johns  Nr,1,1,,,,,10,15020002,AZ,FGZ,5980,LITCOL,4
+wdra3,Little Colorado , Woodruff,1,1,20.15,0,4.84,20.5,20.5,15020002,AZ,FGZ,5130,LITCOL,15
+lcju1,Little Cottonwood Ck , Jordan River,1,1,20.16,4,0.29,5.7,5.2,16020204,UT,SLC,4255,SIXCKS,3
+lctu1,Little Cottonwood Ck , Salt Lake City  Nr,1,1,20.12,14,,4.9,4.3,16020204,UT,SLC,5080,SIXCKS,1
+lcwu1,Little Cottonwood Ck , Crestwood Park,1,1,20.15,e3,,3.4,3.2,16020204,UT,SLC,4526,SIXCKS,2
+lnac2,Little Navajo , Oso Div Dam bl chromo nr,1,1,20.15,e2,e0.23,,15,14080101,CO,GJT,7756,SANJUAN,4
+lilc2,Little Snake , Lily  Nr,1,1,20.15,e117,e1.46,,8.5,14050003,CO,GJT,5685,WHYAM,16
+lsdw4,Little Snake , Dixon  Nr,1,1,20.16,e90,e2.86,9.5,8.5,14050003,WY,CYS,6340,WHYAM,15
+lsrc2,Little Snake , Slater  Nr,1,1,20.15,e36,e3.29,,7.5,14050003,CO,GJT,6831,WHYAM,13
+lgnu1,Logan , Logan  Nr  State Dam  Abv,1,1,20.15,e133,e2.64,5.2,5,16010203,UT,SLC,4680,BEAR,22
+lpda3,Lone Pine Dam,,1,1,,,,,,15020005,AZ,FGZ,1795,LITCOL,10
+losc2,Los Pinos , La Boca,1,1,20.15,51,3.29,,7.8,14080101,CO,GJT,6144,SANJUAN,9
+lpvc2,Los Pinos , Bayfield  Nr  Vallecito Res  Blo,1,1,20.16,31,1.44,5.5,4.8,14080101,CO,GJT,7415,SANJUAN,8
+lccc2,Lost Canyon Ck , Dolores  Nr,1,1,20.15,0,1.71,7.4,5.9,14030002,CO,GJT,7030,DOL,3
+crdu1,Lost Ck , Croyden  Nr,1,1,20.15,9,1.22,2.5,2.4,16020101,UT,SLC,5820,WEBER,10
+mnrc2,Mancos , Mancos  Nr,1,1,20.15,4,3.43,6,5,14080107,CO,GJT,7235,SANJUAN,24
+mrtc2,Mancos , Towaoc  Nr,1,1,20.16,6,1.74,,10.5,14080107,CO,GJT,5056,SANJUAN,25
+maau1,Manti Ck , Manti  Nr  Dugway Ck  Blo,1,1,20.15,,,,4.9,16030004,UT,SLC,6500,SEV_H,10
+zmca3,Martinez Creek,,1,1,20.13,0,2.83,,6,15070103,AZ,FGZ,2370,HASSCENT,3
+mcec2,Mcelmo Ck , Co,1,1,20.15,26,2.78,,7.5,14080202,CO,GJT,4890,SANJUAN,27
+mclu1,Mcleod Ck , Park City  Nr,1,1,20.15,e9,e6.27,8.9,8.1,16020102,UT,SLC,6590,WEBER,11
+mcfa3,Mcmicken Floodway,,1,1,20.13,0,0.25,,13,15070102,AZ,PSR,1335,AGUAFRIA,23
+mven2,Meadow Valley Wash , Eagle Canyon,1,1,20.15,3,4.54,,8,15010013,NV,VEF,5670,MUDLV,1
+mvrn2,Meadow Valley Wash , Rox  Nr,1,1,,,,,23.5,15010013,NV,VEF,1855,MUDLV,7
+mvyn2,Meadow Valley Wash , Caliente  Nr,1,1,20.15,5,9.83,,15.8,15010013,NV,VEF,4200,MUDLV,6
+mcju1,Mill Ck , 460 West,1,1,20.15,16,,,,16020204,UT,SLC,4238,SIXCKS,8
+milu1,Mill Ck , Salt Lake City  Nr,1,1,20.16,6,,2.9,2.8,16020204,UT,SLC,5050,SIXCKS,7
+mifu1,Miller Flat Reservoir,,1,1,20.12,0,,,,14060009,UT,SLC,9329,SANRAFDD,3
+moea3,Moenkopi Wash , Moenkopi  At,1,1,20.15,0,14.93,25,25.5,15020018,AZ,FGZ,4610,LITCOL,26
+mccn5,Mogollon Ck , Cliff  Nr,1,1,20.16,5,1.85,,6.9,15040001,NM,EPZ,5440,UPGILA,3
+mcau1,Mud Ck , Scofield  Winter Quarters  Blo,1,1,20.16,e7,e2.12,,4.8,14060007,UT,SLC,7720,DUCHPR,28
+moan2,Muddy , Moapa  Nr,1,1,20.15,45,1.9,,8,15010012,NV,VEF,1710,MUDLV,8
+mudn2,Muddy , Glendale  Nr,1,1,20.16,41,7.39,21,17,15010012,NV,VEF,1460,MUDLV,9
+mbwc2,Muddy Ck , Wolford Mtn Res  Blo,1,1,20.15,21,4.09,,8.5,14010001,CO,BOU,7380,COLKREM,22
+mdcc2,Muddy Ck , Paonia Res  Blo,1,1,20.15,0,3.02,,7.2,14020004,CO,GJT,6400,GUN,23
+mdcu1,Muddy Ck , Emery  Nr,1,1,20.15,e14,e3.31,,8.2,14070002,UT,SLC,6440,SANRAFDD,19
+navc2,Navajo , Chromo  Nr  Oso Div Dam  Blo,1,1,20.16,32,1.01,,4,14080101,CO,GJT,7648,SANJUAN,3
+mbla3,New , Bell Road,1,1,20.13,0,0.2,,9,15070102,AZ,PSR,1205,AGUAFRIA,15
+mnra3,New , Glendale Ave,1,1,20.13,0,2.7,,5,15070102,AZ,PSR,1060,AGUAFRIA,16
+nwra3,New , Rock Spgs  Nr,1,1,20.15,38,0.89,,8,15070102,AZ,PSR,2310,AGUAFRIA,12
+bpnw4,New Fork , Big Piney  Nr,1,1,20.15,332,2.43,8,7,14040101,WY,RIW,6800,GREEN,3
+somc2,Nf Gunnison , Somerset  Nr,1,1,20.15,e46,e1.35,8,7,14020004,CO,GJT,6280,GUN,25
+lzrc2,North Fork Gunnison , Lazear  Nr  Mouth  Abv,1,1,20.15,e159,e3.10,,,14020004,CO,GJT,5100,GUN,26
+nfvu1,North Fork Virgin , Springdale  Nr,1,1,20.16,180,8.26,17,16,15010008,UT,SLC,3970,VIRGIN,1
+oaca3,Oak Ck , Cornville  Nr,1,1,20.15,42,2.03,8,7.5,15060202,AZ,FGZ,3470,VERDE,10
+oaka3,Oak Ck , Sedona,1,1,20.16,48,2.52,14,13.5,15060202,AZ,FGZ,4169,VERDE,9
+opdu1,Ogden , Pineview Dam  Blo  Huntsville  Nr,1,1,20.15,11,1.35,7.5,6.8,16020102,UT,SLC,4760,WEBER,21
+ohoc2,Ohio Ck , Mouth  Abv,1,1,20.15,e18,e2.30,,5.7,14020002,CO,GJT,7770,GUN,6
+orwa3,Oraibi Wash , Tolani Lake  Nr  Oraibi  N,1,1,,,,,M,15020012,AZ,FGZ,5025,LITCOL,24
+pnta3,Pantano Wash , Vail  Nr,1,1,20.15,0,4.3,,8,15050302,AZ,TWC,3205,SANTACRZ,8
+pwba3,Pantano Wash , Broadway Blvd,1,1,20.15,0,1.38,,15,15050302,AZ,TWC,2569,SANTACRZ,9
+plfa3,Paria , Lees Ferry,1,1,20.15,11,4.52,,17.6,14070007,AZ,FGZ,3124,BILLPAR,1
+prlu1,Parleys Ck , Salt Lake City  Nr,1,1,20.16,28,,M,M,16020204,UT,SLC,5420,SIXCKS,14
+pidc2,Piedra , Arboles  Nr,1,1,20.15,e60,e0.92,,5.4,14080102,CO,GJT,6148,SANJUAN,6
+pnla3,Pinal Ck , Inspiration Dam  Globe  Nr,1,1,20.15,0,0.73,,9.5,15060103,AZ,PSR,2740,SALT,9
+fraw4,Pine Ck , Fremont Lk  Abv,1,1,20.15,e28,e2.51,,7,14040102,WY,RIW,7450,GREEN,2
+psbc2,Piney , State Bridge  Nr,1,1,20.15,e18,e2.81,,9,14010001,CO,GJT,7272,COLPAL,1
+pccc2,Plateau Ck , Cameo  Nr,1,1,20.15,108,2.7,8,7,14010005,CO,GJT,4840,COLPAL,25
+pola3,Polacca Wash , Second Mesa  Nr,1,1,20.15,0,6.5,,14.3,15020013,AZ,FGZ,5240,LITCOL,23
+prhu1,Price , Heiner  Nr,1,1,20.14,e11,e3.46,,8.5,14060007,UT,SLC,6000,DUCHPR,32
+wopu1,Price , Woodside,1,1,20.15,e45,e6.27,20,19,14060007,UT,SLC,4600,DUCHPR,33
+pmuu1,Provo , Past Murdock Dam,1,1,20.14,152,,,,16020203,UT,SLC,6020,PROVO,7
+pppu1,Provo , Provo,1,1,20.16,197,4.63,8.1,7.7,16020203,UT,SLC,4501,PROVO,8
+pvhu1,Provo , Hailstone  Nr,1,1,20.15,e107,e6.76,,9.2,16020203,UT,SLC,6220,PROVO,2
+woou1,Provo , Woodland  Nr,1,1,20.15,e64,e2.55,7.2,6,16020203,UT,SLC,6950,PROVO,1
+puca3,Puerco , Chambers  Nr,1,1,20.15,0,0.6,18,M,15020007,AZ,FGZ,5720,LITCOL,16
+whia3,Queen Ck , Whitlow Ranch Dam  Blo,1,1,20.15,2,1,,46.9,15050100,AZ,PSR,2040,LOGILA,4
+zqra3,Queen Ck , Rittenhouse,1,1,,,,,8,15050100,AZ,PSR,1450,LOGILA,5
+rbcu1,Red Butte Ck , Ft Douglas  At  Salt Lake City  Nr,1,1,20.16,1,0.26,,3.2,16020204,UT,SLC,5400,SIXCKS,16
+rbru1,Red Butte Ck , 1600 E  Nr  Salt Lake City  Nr,1,1,20.16,2,,,1.4,16020204,UT,SLC,4568,SIXCKS,17
+rica3,Rillito Ck , La Cholla Blvd,1,1,20.15,81,3.12,,12.3,15050302,AZ,TWC,2260,SANTACRZ,11
+rila3,Rillito Ck , Tucson  Dodge Blvd  At,1,1,20.15,0,2.6,10.8,9.8,15050302,AZ,TWC,2380,SANTACRZ,10
+rina3,Rincon Ck , Tucson  Nr,1,1,20.15,0,2.1,,5.5,15050302,AZ,TWC,3120,SANTACRZ,5
+rbpc2,Rio Blanco , Pagosa Springs  Nr  Blanco Dam  Blo,1,1,20.15,e16,e1.03,,4,14080101,CO,GJT,7858,SANJUAN,2
+apnc2,Roaring Fork , Aspen  Nr,1,1,20.15,26,0.72,5,4,14010004,CO,GJT,8014,COLPAL,11
+gwsc2,Roaring Fork , Glenwood Springs,1,1,20.15,542,2.52,9.3,9,14010004,CO,GJT,5721,COLPAL,17
+roku1,Rock Ck , Mountain Home  Nr,1,1,20.15,44,1.86,5.9,5.5,14060003,UT,SLC,7250,DUCHPR,16
+poru1,Rolfson Reservoir,,1,1,20.12,5,,,,14060009,UT,SLC,9477,SANRAFDD,5
+wcgu1,S Willow Ck , Grantsville  Nr,1,1,20.15,3,1.38,3.8,3.2,16020304,UT,SLC,6360,SALTLAKE,4
+sayu1,Salina Ck , Emery  Nr,1,1,20.15,,,,5.2,16030003,UT,SLC,7000,SEV_H,11
+grda3,Salt , Granite Reef Dam,1,1,19.12,0,,,,15060106,AZ,PSR,1281,SALT,16
+sffa3,Salt , 51st Ave,1,1,20.13,0,0,18,16,15060106,AZ,PSR,1010,SALT,21
+slca3,Salt , Chrysotile  Nr,1,1,20.15,137,1.6,18,16,15060103,AZ,PSR,3355,SALT,6
+slpa3,Salt , Priest Drive,1,1,20.15,53,3.16,16,16,15060106,AZ,PSR,1135,SALT,20
+slra3,Salt , Roosevelt  Nr,1,1,20.15,140,6.34,30,24,15060103,AZ,PSR,2177,SALT,10
+smda3,Salt , Stewart Mtn Dam  Blo,1,1,20.15,421,3.68,,33,15060106,AZ,PSR,1370,SALT,15
+szzu1,Salt Ck , Nephi Powerplant Div  Blo,1,1,20.15,e3,e7.44,,,16020201,UT,SLC,5750,PROVO,15
+snca3,San Carlos , Peridot  Nr,1,1,20.15,0,3.06,11,10,15040007,AZ,PSR,2542,UPGILA,17
+gsfn5,San Francisco , Glenwood  Nr,1,1,20.15,23,1.59,15,12,15040004,NM,ABQ,4560,UPGILA,9
+rsfn5,San Francisco , Reserve  Nr,1,1,20.16,4,9.03,15,13,15040004,NM,ABQ,5756,UPGILA,8
+sfca3,San Francisco , Clifton,1,1,20.15,42,9.15,24,22,15040004,AZ,TWC,3436,UPGILA,11
+arcn5,San Juan , Archuleta,1,1,20.15,677,3.44,7,6.6,14080101,NM,ABQ,5655,SANJUAN,11
+bffu1,San Juan , Bluff  Nr,1,1,20.15,571,5.45,23,22,14080205,UT,GJT,4048,SANJUAN,29
+pspc2,San Juan , Pagosa Springs,1,1,20.15,e55,e3.46,10.5,8.5,14080101,CO,GJT,7052,SANJUAN,1
+shrn5,San Juan , Shiprock,1,1,20.15,446,7.25,15.5,13.5,14080105,NM,ABQ,4849,SANJUAN,23
+sjcc2,San Juan , Carracas  Nr,1,1,20.15,e126,e2.30,,7.4,14080101,CO,GJT,6090,SANJUAN,5
+sjfc2,San Juan , Four Corners,1,1,20.15,580,5.77,,8.2,14080201,CO,GJT,4600,SANJUAN,26
+smpc2,San Miguel , Placerville  Nr,1,1,20.15,e66,e4.03,,5,14030003,CO,GJT,7030,DOL,7
+smuc2,San Miguel , Uravan,1,1,20.15,e86,e2.68,,10.1,14030003,CO,GJT,5000,DOL,9
+snmc2,San Miguel , Brooks Bridge  Nucla  Nr,1,1,20.15,e73,e1.92,,6.8,14030003,CO,GJT,5570,DOL,8
+sapa3,San Pedro , Charleston,1,1,20.15,18,2.16,,11.5,15050202,AZ,TWC,3954,SANPEDRO,2
+sppa3,San Pedro , Palominas,1,1,20.16,15,4.09,16,15,15050202,AZ,TWC,4188,SANPEDRO,1
+spra3,San Pedro , Redington,1,1,20.15,0,7.53,14.5,12.5,15050203,AZ,TWC,2820,SANPEDRO,7
+spta3,San Pedro , Tombstone  Nr,1,1,20.15,0,3.49,15,13,15050202,AZ,TWC,3780,SANPEDRO,5
+srfu1,San Rafael , Green River  Nr,1,1,20.15,41,5.47,,14,14060009,UT,SLC,4200,SANRAFDD,18
+sssa3,San Simon , Solomon  Nr,1,1,,,,,15.5,15040006,AZ,TWC,2960,UPGILA,15
+stia3,Sand Tank Wash , I,1,1,20.15,0,1.3,,5.5,15070101,AZ,PSR,765,LOGILA,13
+scgu1,Santa Clara , Gunlock,1,1,,,,,4.9,15010008,UT,SLC,3628,VIRGIN,7
+stcu1,Santa Clara , Pine Valley  Nr,1,1,20.16,7,1.45,,,15010008,UT,SLC,6640,VIRGIN,6
+csca3,Santa Cruz , Cortaro,1,1,20.15,29,7.67,18.5,17.2,15050301,AZ,TWC,2100,SANTACRZ,21
+scca3,Santa Cruz , Continental,1,1,20.15,0,1.24,14,11,15050301,AZ,TWC,2820,SANTACRZ,15
+scna3,Santa Cruz , Nogales  Nr,1,1,20.16,0,1.5,,9,15050301,AZ,TWC,3703,SANTACRZ,13
+scta3,Santa Cruz , Trico Rd  At  Marana  Nr,1,1,20.16,11,3.05,15.5,14,15050303,AZ,TWC,1910,SANTACRZ,22
+slva3,Santa Cruz , Laveen  Nr,1,1,20.15,0,8.28,,26.6,15050303,AZ,PSR,1021,SANTACRZ,31
+stba3,Santa Cruz , Tubac,1,1,20.16,12,19.7,28,26,15050301,AZ,TWC,3180,SANTACRZ,14
+tsca3,Santa Cruz , Tucson,1,1,20.16,0,,11,9,15050301,AZ,TWC,2317,SANTACRZ,16
+scsa3,Santa Cruz River At Sr82,,1,1,,,,,15,15050301,AZ,TWC,3615,LITCOL,14
+smba3,Santa Maria , Bagdad  Nr,1,1,20.15,0,,,10,15030203,AZ,PSR,1360,BILLPAR,6
+msaa3,Santa Rosa Wash , Sr,1,1,20.13,0,,,6,15050306,AZ,PSR,1305,SANTACRZ,29
+zswa3,Sauceda Wash,,1,1,20.07,0,1.14,,5.5,15070101,AZ,PSR,850,LOGILA,12
+jovu1,Seeley Ck , Joes Vly Reservoir  Orangeville  Nr,1,1,20.12,27,,,,14060009,UT,SLC,6990,SANRAFDD,13
+hatu1,Sevier , Hatch,1,1,20.15,,,3.9,3.5,16030001,UT,SLC,6870,SEV_H,1
+mysu1,Sevier , Piute Dam  Blo  Marysvale  Nr,1,1,,,,,13.3,16030001,UT,SLC,5920,SEV_H,7
+seku1,Sevier , Kingston  Nr,1,1,20.16,198,4.58,9,7.9,16030001,UT,SLC,5980,SEV_H,2
+sgdu1,Sevier , Sigurd  Nr,1,1,20.13,,,8.5,7.5,16030003,UT,SLC,5180,SEV_H,9
+sryu1,Sevier , Gunnison  Nr,1,1,20.15,273,5.72,,10.2,16030003,UT,SLC,5025,SEV_H,12
+oghu1,Sf Ogden , Huntsville  Nr,1,1,20.15,26,1.22,4.6,4.4,16020102,UT,SLC,5190,WEBER,19
+slla3,Show Low Ck , Lakeside  Nr,1,1,20.15,11,1.88,,7.3,15020005,AZ,FGZ,6610,LITCOL,8
+shoa3,Show Low Lake , Show Low  Nr,1,1,,,,,,15020005,AZ,FGZ,6580,LITCOL,9
+scju1,Silver Ck , Sliver Ck Junction  Nr,1,1,20.15,4,4.07,9,8,16020101,UT,SLC,6470,WEBER,4
+ssfa3,Silver Ck , Snowflake  Abv,1,1,,,,,,15020005,AZ,FGZ,0,LITCOL,12
+scpa3,Skunk Ck , Phoenix  Nr,1,1,20.16,46,1.36,,8,15070102,AZ,PSR,1473,AGUAFRIA,9
+slfc2,Slater Fork , Slater  Nr,1,1,20.15,e23,e3.92,,14.3,14050003,CO,GJT,6600,WHYAM,14
+sccn2,Sloan Channel , Charleston Blvd,1,1,20.15,192,11.68,,16.5,15010015,NV,VEF,1705,MUDLV,13
+sflc2,Smith Fk , Lazear  Nr,1,1,20.15,4,4.61,,,14020002,CO,GJT,5844,GUN,29
+borw4,Smiths Fork , Border  Nr,1,1,20.15,e77,e1.07,5.5,4.5,16010102,WY,RIW,6650,BEAR,7
+skec2,Snake , Montezuma  Nr,1,1,20.15,e19,e1.18,3.8,3.5,14010002,CO,BOU,9320,COLKREM,15
+zsma3,Sols Wash , Matthie  Nr,1,1,20.15,108,0.62,,5,15070103,AZ,PSR,2245,HASSCENT,4
+sfru1,South Fork Rock Ck , Docs Div  Blo,1,1,20.14,4,,,,14060003,UT,SLC,8201,DUCHPR,15
+casu1,Spanish Fork , Castilla  Nr,1,1,20.15,e101,e3.32,9,8.5,16020202,UT,SLC,4870,PROVO,9
+splu1,Spanish Fork Nr Lakeshore,,1,1,20.12,101,,,,16020202,UT,SLC,4500,PROVO,10
+slac2,Straight Ck , Laskey Gulch  Blo,1,1,20.15,3,4.02,6,5.7,14010002,CO,BOU,9070,COLKREM,18
+sccc2,Surface Ck , Cedaredge,1,1,20.15,e5,e0.73,4,3,14020005,CO,GJT,6220,GUN,30
+syca3,Sycamore Ck , Ft Mcdowell  Nr,1,1,20.15,2,0.43,17,13.5,15060203,AZ,PSR,1759,VERDE,23
+tvca3,Tanque Verde , Tucson,1,1,20.15,0,5.33,,12,15050302,AZ,TWC,2470,SANTACRZ,4
+tqra3,Tanque Verde Guest Ranch,,1,1,19.23,0,1.45,,4.5,15050302,AZ,TWC,2720,SANTACRZ,1
+altc2,Taylor , Almont,1,1,20.15,e153,e1.66,,4.3,14020001,CO,GJT,8011,GUN,4
+trac2,Taylor , Taylor Park,1,1,20.15,e49,e1.33,11.3,3.6,14020001,CO,GJT,9340,GUN,1
+trbc2,Taylor , Taylor Park Res  Blo,1,1,20.15,99,3.54,,6,14020001,CO,GJT,9206,GUN,3
+tcfc2,Tenmile Ck , Frisco  N Tenmile Ck  Blo,1,1,20.16,e30,e1.87,,4.8,14010002,CO,BOU,9100,COLKREM,12
+thoi1,Thomas Fork , Wyoming,1,1,19.12,17,,,,16010102,ID,RIW,6280,BEAR,10
+tgwa3,Tiger Wash,,1,1,20.13,247,5.02,,9.3,15070104,AZ,PSR,1875,HASSCENT,10
+tmcc2,Tomichi Ck , Sargents,1,1,20.15,e30,e0.92,,5.8,14020003,CO,PUB,8416,GUN,8
+tomc2,Tomichi Ck , Gunnison,1,1,20.15,e98,e1.38,,13.2,14020003,CO,GJT,7629,GUN,10
+neuu1,Uinta , Neola  Nr,1,1,20.15,e48,e5.06,8.3,8,14060003,UT,SLC,7330,DUCHPR,23
+urru1,Uinta , Randlett,1,1,20.15,e28,e3.90,9.9,9.5,14060003,UT,GJT,4790,DUCHPR,25
+cloc2,Uncompahgre , Colona,1,1,20.15,49,3.34,9.5,8.5,14020006,CO,GJT,6319,GUN,36
+dlac2,Uncompahgre , Delta,1,1,20.15,304,3.37,,11.4,14020006,CO,GJT,4926,GUN,37
+ucrc2,Uncompahgre , Ridgway  Nr,1,1,20.15,52,1.9,,5,14020006,CO,GJT,6878,GUN,32
+unrc2,Uncompahgre , Ridgway Res  Blo,1,1,20.16,45,1.84,6.5,5,14020006,CO,GJT,6650,GUN,35
+upba3,Upper Babocomari , Fort Huachuca  Nr,1,1,20.15,0,5.67,,9,15050202,AZ,TWC,4473,SANPEDRO,3
+ueru1,Upper Enterprise Reservoir,,1,1,,,,,,16030006,UT,SLC,5691,SEV_H,15
+zvwa3,Vekol Wash,,1,1,20.13,0,4.89,,9.1,15050303,AZ,PSR,1720,SANTACRZ,30
+vcva3,Verde , Camp Verde  Nr,1,1,20.15,153,4.24,,26.6,15060203,AZ,FGZ,2874,VERDE,14
+vdba3,Verde , Bartlett Dam  Blo,1,1,20.15,124,0.86,,31,15060203,AZ,PSR,1570,VERDE,22
+vdca3,Verde , Clarkdale,1,1,20.15,71,1.03,12,12,15060202,AZ,FGZ,3500,VERDE,8
+vdpa3,Verde , Paulden  Nr,1,1,20.15,20,2.01,13,9,15060202,AZ,FGZ,4117,VERDE,7
+vdsa3,Verde , Scottsdale  Nr,1,1,20.15,313,1.35,,27.3,15060203,AZ,PSR,1320,VERDE,24
+vdta3,Verde , Tangle Ck  Blo  Horseshoe Dam  Abv,1,1,20.15,227,7.28,,23,15060203,AZ,FGZ,2029,VERDE,18
+vlmn2,Virgin , Lake Mead  Abv  Overton  Nr,1,1,20.15,,,,,15010010,NV,VEF,1220,VIRGIN,17
+vlta3,Virgin , Littlefield,1,1,20.16,190,5.32,19,17.2,15010010,AZ,VEF,1764,VIRGIN,15
+vmqn2,Virgin , Mesquite Bridge,1,1,,,,,,15010010,NV,VEF,1559,VIRGIN,16
+ywca3,Walnut Creek,,1,1,20.16,20,0.21,,,15060201,AZ,FGZ,5068,VERDE,2
+wata3,Waterman Wash , Rainbow,1,1,20.13,0,1.04,,10,15070101,AZ,PSR,1020,LOGILA,10
+cllu1,Weber , Coalville  Nr,1,1,20.15,35,1.43,6.1,5.1,16020101,UT,SLC,5600,WEBER,5
+ecwu1,Weber , Echo,1,1,20.15,0,0.72,6,5.7,16020101,UT,SLC,5440,WEBER,8
+gatu1,Weber , Gateway,1,1,20.15,67,11.1,17,16,16020102,UT,SLC,4800,WEBER,16
+oawu1,Weber , Oakley  Nr,1,1,20.15,59,5.2,9.6,9.2,16020101,UT,SLC,6640,WEBER,1
+rkuu1,Weber , Rockport Res  Wanship  Nr,1,1,,e60,,,,16020101,UT,SLC,6037,WEBER,2
+wbwu1,Weber , Wanship  Nr  Res Blo,1,1,20.15,23,1.71,,3.5,16020101,UT,SLC,5900,WEBER,3
+wwpu1,Weber , Plain City  Nr,1,1,20.14,140,11.19,27,25,16020102,UT,SLC,4207,WEBER,22
+wesu1,West Canyon Ck , Cedar Fort  Nr,1,1,20.16,1,2.36,5.4,5.2,16020201,UT,SLC,5620,PROVO,14
+wcla3,West Clear Ck , Camp Verde  Nr,1,1,20.16,22,0.92,,12,15060203,AZ,FGZ,3630,VERDE,13
+wetc2,West Divide Ck , Raven  Nr,1,1,20.15,e2,e1.18,,4.6,14010005,CO,GJT,7050,COLPAL,19
+wfdu1,West Fork Duchesne , Vat Diversion  Blo,1,1,20.14,e9,,,,14060003,UT,SLC,7800,DUCHPR,11
+wbva3,Wet Beaver Ck , Rimrock  Nr,1,1,20.16,8,2.85,9.5,8,15060202,AZ,FGZ,4020,VERDE,12
+wtba3,Wet Bottom , Childs  Nr,1,1,20.15,0,3.61,,18.5,15060203,AZ,FGZ,2320,VERDE,16
+watu1,White , Watson  Nr,1,1,20.15,e436,e2.27,,9,14050007,UT,GJT,4947,WHYAM,21
+whbc2,White , Rangely  Nr  Boise Ck  Blo,1,1,20.15,e449,e2.97,,7.5,14050007,CO,GJT,5395,WHYAM,20
+whic2,White , Meeker  Blo,1,1,20.15,431,4.84,,8.8,14050005,CO,GJT,5928,WHYAM,19
+wrmc2,White , Meeker  Nr,1,1,20.15,383,2.71,7,6,14050005,CO,GJT,6300,WHYAM,18
+wrsu1,White , Blo Tabbyune Ck  Soldier Summit  Nr,1,1,20.15,e4,e2.00,,5.5,14060007,UT,SLC,7230,DUCHPR,31
+wtru1,Whiterocks , Whiterocks  Nr,1,1,20.15,e44,e1.98,,5,14060003,UT,GJT,7200,DUCHPR,24
+wwda3,Whitewater Draw , Douglas  Nr,1,1,20.15,0,4.16,,11,15080301,AZ,TWC,3909,WHVAM,6
+wflc2,Williams Fork , Leal  Nr,1,1,20.15,e29,e1.56,,4,14010001,CO,BOU,8790,COLKREM,9
+wfrc2,Williams Fork , Williams Fork Res  Blo,1,1,20.16,72,1.31,7,7,14010001,CO,BOU,7615,COLKREM,11
+wikc2,Williams Fork , Mouth  At  Hamilton  Nr,1,1,20.15,e61,e2.93,,7.5,14050001,CO,GJT,6170,WHYAM,11
+wvaa3,Williamson Valley Wash , Paulden  Nr,1,1,20.15,0,2.11,,,15060201,AZ,FGZ,4455,VERDE,1
+wckc2,Willow Ck , Granby  Nr  Willow Ck Res  Blo,1,1,20.16,6,2.39,,5.7,14010001,CO,BOU,8024,COLKREM,2
+cggc2,Yampa , Craig  Blo,1,1,20.15,e245,e1.25,,9,14050001,CO,GJT,6100,WHYAM,10
+mblc2,Yampa , Maybell  Nr,1,1,20.15,e330,e2.16,12,10,14050002,CO,GJT,5900,WHYAM,12
+stmc2,Yampa , Steamboat Springs,1,1,20.15,111,1.31,7.5,6.5,14050001,CO,GJT,6695,WHYAM,5
+yasc2,Yampa , Stagecoach Rsvr  Abv,1,1,20.16,60,2.48,,7,14050001,CO,GJT,7240,WHYAM,2
+ydlc2,Yampa , Deerlodge Park,1,1,20.15,e465,e2.64,,11,14050002,CO,GJT,5600,WHYAM,17
+ymsc2,Yampa , Stagecoach Res  Blo,1,1,20.15,69,3.02,,4,14050001,CO,GJT,7050,WHYAM,4
+yllu1,Yellowstone , Altonah  Nr,1,1,20.15,e76,e0.85,4.7,4.3,14060003,UT,SLC,7430,DUCHPR,20
+zuin5,Zuni , Black Rock Res  Abv,1,1,20.16,0,2.04,8.5,8.5,15020004,NM,ABQ,6450,LITCOL,1
+rcya3,,,0,1,,,,,,,,,,WHVAM,4
+ywla3,Watson Lake,,0,1,,,,,,15060202,AZ,FGZ,5166,VERDE,5
