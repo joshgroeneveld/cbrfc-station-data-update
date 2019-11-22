@@ -1,12 +1,9 @@
 import requests
 import pandas as pd
 
-response = requests.get('https://www.cbrfc.noaa.gov/gmap/list/list.php?search=&point=forecast&plot=&sort=riverhis&psv=on&type=river&basin=0&subbasin=&espqpf=0&espdist=emperical')
+url = 'https://www.cbrfc.noaa.gov/gmap/list/list.php?search=&point=forecast&plot=&sort=riverhis&psv=on&type=river&basin=0&subbasin=&espqpf=0&espdist=emperical'
 
-response.request.url
-'https://www.cbrfc.noaa.gov/gmap/list/list.php?search=&point=forecast&plot=&sort=riverhis&psv=on&type=river&basin=0&subbasin=&espqpf=0&espdist=emperical'
-
-df = pd.read_csv(response.url)
+df = pd.read_csv(url)
 
 column_list = ['NWS_ID', 'River', 'Location', 'Forecast_Condition', 'Point_Type', 'Observed_DayTime', 'Latest_Flow', 'Latest_Stage', 'Flood_Stage', 'Bankfull_Stage', 'HUC', 'State', 'HSA', 'Elevation', 'Forecast_Group', 'Segment', 'DeleteMe', 'DeleteMe_2']
 
