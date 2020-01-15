@@ -5,7 +5,21 @@ from urllib import request
 from urllib.error import URLError
 import pandas as pd
 
-def feedRoutine(url, workGDB, itemid, original_sd_file, service_name):
+def calculate_datetime(text_field):
+    date_string = str(text_field)
+    if '.' in date_string:
+        utc_now = dt.datetime.utcnow()
+        month = utc_now.month
+        year = utc_now.year
+        day = date_string.split('.')[0]
+        hour = date_string.split('.')[1]
+        str_date = str(month) + '/' + day + '/' + str(year) + ' ' + hour + ':00'
+        new_date = datetime.datetime.strptime(str_date, '%m/%d/%Y %H:%M')
+        return new_date
+    else:
+        pass
+
+def feedRoutine(workGDB):
     # Log file
     logging.basicConfig(filename="cbrfc_river_conditions_update.log", level=logging.INFO)
     log_format = "%Y-%m-%d %H:%M:%S"
@@ -14,7 +28,7 @@ def feedRoutine(url, workGDB, itemid, original_sd_file, service_name):
     logging.info("Starting workGDB... {0}".format(dt.datetime.now().strftime(log_format)))
     arcpy.env.workspace = workGDB
     if arcpy.Exists(arcpy.env.workspace):
-        for feat in arcpy.ListFeatureClasses("CBRFC_*"):
+        for feat in arcpy.ListTables("CBRFC_*"):
             arcpy.management.Delete(feat)
     else:
         arcpy.management.CreateFileGDB(os.path.dirname(workGDB), os.path.basename(workGDB))
@@ -34,12 +48,24 @@ def feedRoutine(url, workGDB, itemid, original_sd_file, service_name):
     column_list = ['NWS_ID', 'River', 'Location', 'Forecast_Condition', 'Point_Type', 'Observed_DayTime', 'Latest_Flow', 'Latest_Stage', 'Flood_Stage', 'Bankfull_Stage', 'HUC', 'State', 'HSA', 'Elevation', 'Forecast_Group', 'Segment', 'DeleteMe', 'DeleteMe_2']
     df.columns = column_list
     df = df.drop(['DeleteMe', 'DeleteMe_2'], axis=1)
+    print(df.head())
 
     # Export pandas dataframe to temp CSV
+    out_csv_path = os.path.join(temp_dir, 'work.csv')
+    df.to_csv(out_csv_path)
 
     # Convert temp CSV into temp GDB table
+    arcpy.conversion.TableToTable(out_csv_path, workGDB, 'CBRFC_data_table')
+    temp_gdb_table = os.path.join(workGDB, 'CBRFC_data_table')
+    arcpy.management.AddField(temp_gdb_table, 'Obs_DateTime', 'DATE', field_alias='Observation Day and Time')
 
     # Convert day and time observations into a datetime field
+    fields = ['Observed_DayTime', 'Obs_DateTime']
+    with arcpy.da.UpdateCursor(temp_gdb_table, fields) as cursor:
+        for row in cursor:
+            if row[0] is not None:
+                row[1] = calculate_datetime(row[0])
+            cursor.updateRow(row)
 
     # Search cursor on temp GDB table, update cursor on work GDB stream gauge conditions layer
 
@@ -50,9 +76,9 @@ def feedRoutine(url, workGDB, itemid, original_sd_file, service_name):
     
 
     # Deployment Logic
-    print("Deploying...")
-    logging.info("Deploying... {0}".format(dt.datetime.now().strftime(log_format)))
-    deployLogic(workGDB, itemid, original_sd_file, service_name)
+#     print("Deploying...")
+#     logging.info("Deploying... {0}".format(dt.datetime.now().strftime(log_format)))
+#     deployLogic(workGDB, itemid, original_sd_file, service_name)
 
     # Close log file
     logging.shutdown()
