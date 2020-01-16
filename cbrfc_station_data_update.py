@@ -19,7 +19,7 @@ def calculate_datetime(text_field):
     else:
         pass
 
-def feedRoutine(workGDB):
+def feedRoutine(workGDB, liveGDB):
     # Log file
     logging.basicConfig(filename="cbrfc_river_conditions_update.log", level=logging.INFO)
     log_format = "%Y-%m-%d %H:%M:%S"
@@ -48,7 +48,11 @@ def feedRoutine(workGDB):
     column_list = ['NWS_ID', 'River', 'Location', 'Forecast_Condition', 'Point_Type', 'Observed_DayTime', 'Latest_Flow', 'Latest_Stage', 'Flood_Stage', 'Bankfull_Stage', 'HUC', 'State', 'HSA', 'Elevation', 'Forecast_Group', 'Segment', 'DeleteMe', 'DeleteMe_2']
     df.columns = column_list
     df = df.drop(['DeleteMe', 'DeleteMe_2'], axis=1)
-    print(df.head())
+    df['Latest_Flow'] = df.Latest_Flow.str.replace('e?' , '')
+    df['Latest_Stage'] = df.Latest_Stage.str.replace('e?' , '')
+    df['Flood_Stage'] = df.Flood_Stage.str.replace('e?' , '')
+    df['Bankfull_Stage'] = df.Bankfull_Stage.str.replace('e?' , '')
+    print(df.head(30))
 
     # Export pandas dataframe to temp CSV
     out_csv_path = os.path.join(temp_dir, 'work.csv')
@@ -68,6 +72,22 @@ def feedRoutine(workGDB):
             cursor.updateRow(row)
 
     # Search cursor on temp GDB table, update cursor on work GDB stream gauge conditions layer
+    search_fields = ['NWS_ID', 'Forecast_Condition', 'Obs_DateTime', 'Latest_Flow', 'Latest_Stage']
+    update_fields = ['Station_ID', 'Forecast_Condition', 'Observed_DayTime', 'Latest_Flow', 'Latest_Stage']
+    
+    live_gdb_table = os.path.join(liveGDB, 'CBRFC_River_Conditions')
+    
+    with arcpy.da.SearchCursor(temp_gdb_table, search_fields) as search_cursor:
+        for srow in search_cursor:
+            nws_id = srow[0]
+            query = '"Station_ID" = ' + '\'' + nws_id + '\''
+            with arcpy.da.UpdateCursor(live_gdb_table, update_fields, query) as update_cursor:
+                for urow in update_cursor:
+                    urow[1] = srow[1]
+                    urow[2] = srow[2]
+                    urow[3] = srow[3]
+                    urow[4] = srow[4]
+                    update_cursor.updateRow(urow)
 
 
     # Convert json files to features
